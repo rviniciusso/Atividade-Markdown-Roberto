@@ -60,5 +60,5 @@ Você foi contratado(a) para documentar um projeto de **"Sistema de Gerenciament
 - Breve apresentação explicando as escolhas de formatação
 
 #### **Extensões Opcionais:**
-- Adicionar emojis temáticos
+- Adicionar emojis temáticos ([Repositório contendo todos os códigos dos emogis](https://github.com/ikatyang/emoji-cheat-sheet))
 - Criar uma segunda página linkada

@@ -55,8 +55,8 @@ Seu principal objetivo é automatizar processos e reduzir erros manuais.
      ```
 
 ---
-
-![Logo do Projeto](https://share.google/images/eFXWdGjPtva9B4C7b.png)
+### Cerebro da biblioteca
+![Logo do Projeto](https://static.vecteezy.com/system/resources/previews/000/660/248/non_2x/education-book-logo-vector.jpg)
 # Exemplo
 ## O nosso projeto segue esse código de _**exemplo**_
 
@@ -93,7 +93,9 @@ biblioteca.devolver_livro("Maria", "Dom Casmurro")
 ---
 
 ## Repositórios relacionados
+
 > https://github.com/Sabrinagodoy12/Parcial-Programacion-UTN
+
 > https://github.com/vnschneider/ml_kit_showcase_app
 
 ---
@@ -103,6 +105,6 @@ Agradecimentos para (@usuario1, @usuario2) que me ajudaram a realizar este incri
 ```
 ---
 ## Contatos 
-* Entre em contato para dúvidas ou colaborações:
-  * email@escola.com
-  * (xx) xxxxx-xxxx
+- Entre em contato para dúvidas ou colaborações:
+  - email@escola.com
+  - (xx) xxxxx-xxxx
